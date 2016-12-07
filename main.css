@@ -19,11 +19,11 @@ body {
 }
 
 #main-logo {
-	height: 30vh;
-	width: 30vh;
+	height: 300px;
+	width: 300px;
 	margin-top: 15vh;
-	margin-left: calc((100% - 30vh) / 2);
-	margin-right: calc((100% - 30vh) / 2);
+	margin-left: calc((100% - 300px) / 2);
+	margin-right: calc((100% - 300px) / 2);
 }
 
 #logo-header {
@@ -33,7 +33,7 @@ body {
 
 #homepage-scroll {
 	margin: auto;
-	margin-top: 20vh;
+	margin-top: 5vh;
 	display: block;
 	text-align: center;
 }

@@ -44,3 +44,13 @@ body {
 	height: 100px;
 	margin-top: -30px;
 }
+
+@media screen and (max-height: 500px) {
+	
+}
+
+@media screen and (max-width: 500px) {
+	#main-logo {
+		margin-top: 5vh;
+	}
+}
